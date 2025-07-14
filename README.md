@@ -1,4 +1,4 @@
-<h1>Los Tiempos Progresivos — Spanish Notesh1>
+<h1>Los Tiempos Progresivos — Spanish Notes<h1>
 
 <p>The progressive tenses describe actions that are ongoing or in progress. They are formed with the verb <strong>estar</strong> + the <strong>gerund</strong> (present participle) of the main verb.</p>
 
